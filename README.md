@@ -41,42 +41,6 @@
 <!--  3. CODE-BLOCK ABOUT ME                                         -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-```java
-public class Raman extends Developer {
-
-    private final String name        = "Raman";
-    private final String location    = "Chennai, Tamil Nadu, India 🇮🇳";
-    private final String degree      = "B.Sc. Computer Science — St. Joseph's College (2025)";
-    private final String email       = "ramnj08@gmail.com";
-    private final String portfolio   = "https://extraordinary-pie-52530a.netlify.app/";
-
-    private final String[] stack = {
-        "Java", "Spring Boot",          // Backend
-        "React", "HTML5", "CSS3",       // Frontend
-        "MySQL",                        // Database
-        "Git", "GitHub"                 // Version Control
-    };
-
-    private final String[] currentlyLearning = {
-        "Spring Security & JWT Auth",
-        "REST API best practices",
-        "System Design fundamentals",
-        "Docker & CI/CD pipelines"
-    };
-
-    private final String funFact =
-        "I debug with System.out.println() and I'm not ashamed of it 😄";
-
-    public String motto() {
-        return "Write code that a 6-month-later-you would be proud of.";
-    }
-
-    public static void main(String[] args) {
-        Raman me = new Raman();
-        System.out.println("👋 Welcome to my GitHub! Let's build something great.");
-    }
-}
-```
 
 ---
 
