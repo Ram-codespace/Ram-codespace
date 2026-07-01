@@ -37,17 +37,6 @@
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  3. CODE-BLOCK ABOUT ME                                         -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  4. TECH BADGES                                                 -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -82,27 +71,6 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ram-codespace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&rank_icon=github"
-    height="170"
-    alt="GitHub Stats"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-codespace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  7. STREAK STATS                                                -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Ram-codespace&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FFA657&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
@@ -122,92 +90,6 @@
     alt="Activity Graph"
   />
 </p>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  9. TROPHY WALL                                                 -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Ram-codespace&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  10. WORK EXPERIENCE                                            -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 💼 Experience
-
-<details>
-  <summary><b>🎓 Java Full Stack Development Training — Tech Panda</b></summary>
-  <br/>
-
-  > **Role:** Trainee — Java Full Stack Developer
-  > **Stack:** Java · Spring Boot · React · MySQL · Git
-
-  - Completed an intensive full stack training program covering both backend (Java, Spring Boot) and frontend (React, HTML, CSS, JS) development.
-  - Built and deployed functional web applications from the ground up as part of the curriculum.
-  - Gained hands-on experience with MySQL for database design and REST API integration.
-  - Trained in version control workflows using Git and GitHub.
-
-</details>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  11. FEATURED PROJECTS                                          -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 🚀 Featured Projects
-
-<p align="center">
-
-| 🗂️ Project | 🛠️ Tech Stack | 📝 Description |
-|:---:|:---:|:---|
-| 🌐 **[Portfolio Website](https://extraordinary-pie-52530a.netlify.app/)** | `React` `HTML` `CSS` `JavaScript` | Personal portfolio site showcasing my projects, skills, and background. [Source](https://github.com/Ram-codespace/portfolio) |
-| 🛒 **E-Commerce Website** | `Java` `HTML` `CSS` `JavaScript` `MySQL` | Full-stack e-commerce app with responsive product browsing UI, CRUD database operations, and performance-optimised queries. |
-| 💼 **Job Portal Website** | `Java` `React` `HTML` `CSS` `JavaScript` `MySQL` | Web-based job portal connecting job seekers & recruiters — supports user auth, profile management, and job application workflows. |
-
-</p>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  12. ACHIEVEMENTS                                               -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 🏅 Achievements & Certifications
-
-<p align="center">
-
-| 🎖️ Achievement | 📄 Details |
-|:---:|:---|
-| 📜 **Java Full Stack Certification** | Certified by Tech Panda — covering Java, Spring Boot, React, MySQL, and Git |
-| 🎓 **B.Sc. Computer Science** | St. Joseph's College of Arts and Science, Chennai — Graduated 2025 |
-
-</p>
-
-> 💡 *More achievements on the way — currently grinding LeetCode and open source contributions!*
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  13. EDUCATION + CURRENTLY LEARNING + FOOTER WAVE              -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-|:---|:---|:---:|
-| B.Sc. in Computer Science | St. Joseph's College of Arts and Science, Chennai | 2025 |
 
 ---
 
