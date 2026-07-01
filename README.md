@@ -1,5 +1,3 @@
-
-
 # profile
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║              RAMAN — GitHub Profile README                  ║ -->
@@ -31,8 +29,9 @@
 
 <p align="center">
   <a href="mailto:ramnj08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="www.linkedin.com/in/raman-909111401&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raman-909111401/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Ram-codespace"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://extraordinary-pie-52530a.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=netlify&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Ram-codespace&style=flat-square&color=70A5FD" alt="Profile Views" />
 </p>
 
@@ -49,6 +48,7 @@ public class Raman extends Developer {
     private final String location    = "Chennai, Tamil Nadu, India 🇮🇳";
     private final String degree      = "B.Sc. Computer Science — St. Joseph's College (2025)";
     private final String email       = "ramnj08@gmail.com";
+    private final String portfolio   = "https://extraordinary-pie-52530a.netlify.app/";
 
     private final String[] stack = {
         "Java", "Spring Boot",          // Backend
@@ -186,7 +186,7 @@ public class Raman extends Developer {
   <summary><b>🎓 Java Full Stack Development Training — Tech Panda</b></summary>
   <br/>
 
-  > **Role:** Trainee — Java Full Stack Developer  
+  > **Role:** Trainee — Java Full Stack Developer
   > **Stack:** Java · Spring Boot · React · MySQL · Git
 
   - Completed an intensive full stack training program covering both backend (Java, Spring Boot) and frontend (React, HTML, CSS, JS) development.
@@ -208,6 +208,7 @@ public class Raman extends Developer {
 
 | 🗂️ Project | 🛠️ Tech Stack | 📝 Description |
 |:---:|:---:|:---|
+| 🌐 **[Portfolio Website](https://extraordinary-pie-52530a.netlify.app/)** | `React` `HTML` `CSS` `JavaScript` | Personal portfolio site showcasing my projects, skills, and background. [Source](https://github.com/Ram-codespace/portfolio) |
 | 🛒 **E-Commerce Website** | `Java` `HTML` `CSS` `JavaScript` `MySQL` | Full-stack e-commerce app with responsive product browsing UI, CRUD database operations, and performance-optimised queries. |
 | 💼 **Job Portal Website** | `Java` `React` `HTML` `CSS` `JavaScript` `MySQL` | Web-based job portal connecting job seekers & recruiters — supports user auth, profile management, and job application workflows. |
 
