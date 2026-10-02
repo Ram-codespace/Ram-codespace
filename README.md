@@ -21,20 +21,17 @@ Java Full Stack Developer with a B.Sc. in Computer Science (2025). I design REST
 | **MedBook** – Hospital Appointment Scheduling | 3 roles (patient, doctor, admin), 12+ REST APIs, role-based access with Spring Security, 6 React screens, Flyway + Docker Compose setup | Java, Spring Boot, MySQL, React |
 | **Bank Management System** | Accounts, deposits, withdrawals, transfers; validation for insufficient balance and invalid transfers | Java, Spring Boot, MySQL |
 
-<table>
-<tr>
-<td width="360" align="center"><img src="badge.svg?v=1" alt="ID badge" width="300"/></td>
-<td>
+<div align="center">
+<img src="badge.svg?v=1" alt="ID badge" width="280"/>
+</div>
 
-### Contribution city
-<img src="profile-3d-contrib/profile-night-view.svg?v=1" alt="3D contributions" width="100%"/>
+## Contribution city
 
-### Snake
-<img src="https://raw.githubusercontent.com/Ram-codespace/Ram-codespace/output/github-snake-dark.svg" alt="snake" width="100%"/>
+<img src="profile-3d-contrib/profile-night-view.svg?v=2" alt="3D contributions" width="100%"/>
 
-</td>
-</tr>
-</table>
+## Snake
+
+<img src="https://raw.githubusercontent.com/Ram-codespace/Ram-codespace/output/github-snake-dark.svg?v=2" alt="snake" width="100%"/>
 
 ## Connect
 
