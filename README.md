@@ -1,131 +1,42 @@
-# profile
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║              RAMAN — GitHub Profile README                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  1. HERO BANNER                                                 -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="hero.svg?v=1" alt="Raman – Java Full Stack Developer" width="100%"/>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAMAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20Building%20the%20Web%2C%20One%20Line%20at%20a%20Time&descAlignY=62&descSize=16"
-    alt="Hero Banner"
-  />
-</p>
+</div>
 
----
+## About
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  2. TYPING HEADER                                               -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+Java Full Stack Developer with a B.Sc. in Computer Science (2025). I design RESTful APIs and relational databases on the back end and build responsive interfaces with React on the front end. Certified through a 7-month Java Full Stack program (Techpanda, via Trainer Central by Zoho) and a Data Science & Analytics with Python course.
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Raman+%F0%9F%91%8B;Java+Full+Stack+Developer+%7C+React+%2B+Spring+Boot;Turning+ideas+into+real+web+applications;Always+learning%2C+always+building+%F0%9F%9A%80"
-    alt="Typing SVG"
-  />
-</p>
+📍 Chennai, Tamil Nadu · ✉️ [ramaniyappan08@gmail.com](mailto:ramaniyappan08@gmail.com)
 
-<p align="center">
-  <a href="mailto:ramnj08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/raman-909111401/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Ram-codespace"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://extraordinary-pie-52530a.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=netlify&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ram-codespace&style=flat-square&color=70A5FD" alt="Profile Views" />
-</p>
+<div align="center">
+<img src="stack.svg?v=1" alt="Tech stack" width="100%"/>
+</div>
 
----
+## Projects
 
-## 🛠️ Tech Stack
+| Project | What it does | Stack |
+|---|---|---|
+| **MedBook** – Hospital Appointment Scheduling | 3 roles (patient, doctor, admin), 12+ REST APIs, role-based access with Spring Security, 6 React screens, Flyway + Docker Compose setup | Java, Spring Boot, MySQL, React |
+| **Bank Management System** | Accounts, deposits, withdrawals, transfers; validation for insufficient balance and invalid transfers | Java, Spring Boot, MySQL |
 
-**Languages**
+<table>
+<tr>
+<td width="360" align="center"><img src="badge.svg?v=1" alt="ID badge" width="300"/></td>
+<td>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Contribution city
+<img src="profile-3d-contrib/profile-night-view.svg?v=1" alt="3D contributions" width="100%"/>
 
-**Frameworks & Libraries**
+### Snake
+<img src="https://raw.githubusercontent.com/Ram-codespace/Ram-codespace/output/github-snake-dark.svg" alt="snake" width="100%"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+</td>
+</tr>
+</table>
 
-**Databases**
+## Connect
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  5. GITHUB STATS  +  6. TOP LANGUAGES                          -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ram-codespace&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FFA657&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--  8. ACTIVITY GRAPH                                              -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ram-codespace&theme=tokyo-night&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFA657&hide_border=true"
-    alt="Activity Graph"
-  />
-</p>
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API%20Design-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-70A5FD?style=flat-square&logo=blueprint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 💬 Soft Skills
-
-`Communication` &nbsp;·&nbsp; `Teamwork` &nbsp;·&nbsp; `Problem Solving` &nbsp;·&nbsp; `Adaptability` &nbsp;·&nbsp; `Time Management`
-
----
-
-<p align="center">
-  <i>"Write code that a 6-month-later-you would be proud of."</i><br/>
-  <b>— Raman</b>
-</p>
-
-<p align="center">
-  <a href="mailto:ramnj08@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Connect-ramnj08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<!-- FOOTER WAVE -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"
-    alt="Footer Wave"
-  />
-</p>
+[![Email](https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=0d0e16)](mailto:ramaniyappan08@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=0d0e16)](https://github.com/Ram-codespace)
